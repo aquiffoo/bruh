@@ -3,12 +3,12 @@
 
 Also known as BRUHIFF or BRUH.
 
-![Example](https://cdn.discordapp.com/attachments/1074408238939906220/1130764354661384192/image.png)
+![Example](./repo-example.png)
 
 # How to
 1. Download the repo / `git clone` it.
 2. Open a command prompt in the directory / `cd bruh`
-3. Run `cargo run compile` followed by a `path/to/image.png` to compile PNG to BRUH. Example: `cargo run compile C:\Uses\User\Downloads\image.png`
+3. Run `cargo run compile` followed by a `path/to/image.png` to compile PNG to BRUH. Example: `cargo run compile C:\Users\User\Downloads\image.png`
 
 4. Run `cargo run` followed by a `path/to/image.bruh` to show the image
 
